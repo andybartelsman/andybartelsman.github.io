@@ -4,12 +4,12 @@ var bg;
 var y = 0;
 
 function setup() {
- bg= loadImage("images/ladertiag5.jpg");
- createCanvas(720,400);
+ bg= loadImage("images/dickson.jpg");
+ createCanvas(windowWidth, windowHeight);
  
 //crear un lienzo
 //CreateCanvas(hor,ver)
-createCanvas(windowWidth, windowHeight);
+//createCanvas(windowWidth, windowHeight);
 
 //pintar el fondo naranjo
 //background(color);
@@ -31,9 +31,9 @@ function draw() {
 //escribir texto
 textFont ("Helvetica");
 textSize(14);
-text("Andres Bartelsman Vega is a chilean Architect who is currently learning how to develop this web page coding by himself.",50,50);
+text("Hello. Write me to aabartel@uc.cl",50,50);
 strokeWeight (0)
-fill(0);
+fill(255,255,255);
 
 //s="Andres Bartelsman Vega is a chilean Architect who is learning how to develop a web page coding by himself.";
 //fill (50);
