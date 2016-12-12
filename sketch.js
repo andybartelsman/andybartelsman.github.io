@@ -30,8 +30,11 @@ function draw() {
 
 //escribir texto
 textFont ("Helvetica");
-textSize(14);
-text("Hello. Write me to aabartel@uc.cl",50,50);
+textSize(12);
+text("Andrés Bartelsman Vega",50,50);
+text("Santiago, Chile",50,65);
+text("aabartel@uc.cl",50,80);
+text("+56 9 69073225",50,95);
 strokeWeight (0)
 fill(255,255,255);
 
