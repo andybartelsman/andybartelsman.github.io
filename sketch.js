@@ -36,7 +36,7 @@ text("Santiago, Chile",50,65);
 text("aabartel@uc.cl",50,80);
 text("+56 9 69073225",50,95);
 strokeWeight (0)
-fill(255,255,255);
+fill(0,51,102);
 
 //s="Andres Bartelsman Vega is a chilean Architect who is learning how to develop a web page coding by himself.";
 //fill (50);
