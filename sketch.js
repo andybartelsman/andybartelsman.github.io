@@ -34,7 +34,7 @@ textSize(12);
 text("Andrés Bartelsman Vega",50,50);
 text("Architect",50,65);
 text("Currently making Architecture",50,80);
-text("And Experimental Experiments in other areas",50,95);
+text("Beggining explorations in Arts, Light and Landscape",50,95);
 text("Santiago, Chile",50,110);
 text("aabartel@uc.cl",50,125);
 strokeWeight (0)
