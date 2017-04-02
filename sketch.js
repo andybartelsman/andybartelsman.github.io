@@ -4,7 +4,7 @@ var bg;
 var y = 0;
 
 function setup() {
- bg= loadImage("images/dickson.jpg");
+ bg= loadImage("images/orangelight.jpg");
  createCanvas(windowWidth, windowHeight);
  
 //crear un lienzo
@@ -32,11 +32,13 @@ function draw() {
 textFont ("Helvetica");
 textSize(12);
 text("Andrés Bartelsman Vega",50,50);
-text("Santiago, Chile",50,65);
-text("aabartel@uc.cl",50,80);
-text("+56 9 69073225",50,95);
+text("Architect",50,65);
+text("Currently making Architecture",50,80);
+text("And Experimental Experiments in other areas",50,95);
+text("Santiago, Chile",50,110);
+text("aabartel@uc.cl",50,125);
 strokeWeight (0)
-fill(0,51,102);
+fill(250,250,250);
 
 //s="Andres Bartelsman Vega is a chilean Architect who is learning how to develop a web page coding by himself.";
 //fill (50);
