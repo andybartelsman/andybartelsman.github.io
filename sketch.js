@@ -28,7 +28,7 @@ function draw() {
     y = 0;
   }
 
-//escribir texto
+//escribir texto de encabezado
 textFont ("Helvetica");
 textSize(12);
 text("Andrés Bartelsman Vega",50,50);
@@ -40,9 +40,11 @@ text("aabartel@uc.cl",50,125);
 strokeWeight (0)
 fill(250,250,250);
 
-//s="Andres Bartelsman Vega is a chilean Architect who is learning how to develop a web page coding by himself.";
-//fill (50);
-//text (s,10,10,70,80); 
+
+
+//triangle(x1,y1,x2,y2,x3,y3)
+//triangulo desde la la izquierda de la pantalla (extremo superior izquierdo y extremo inferior izquierdo) al cursor
+triangle(0, 0, 0, height, mouseX, mouseY);
 
   
 }
