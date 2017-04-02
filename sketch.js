@@ -4,7 +4,7 @@ var bg;
 var y = 0;
 
 function setup() {
- bg= loadImage("images/orangelight.jpg");
+ bg= loadImage("images/luznaranja.jpg");
  createCanvas(windowWidth, windowHeight);
  
 //crear un lienzo
