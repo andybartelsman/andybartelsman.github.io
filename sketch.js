@@ -37,6 +37,7 @@ text("Currently making Architecture",50,80);
 text("Explorating Arts, Light and Landscape",50,95);
 text("Santiago, Chile",50,110);
 text("aabartel@uc.cl",50,125);
+text("also visit www.andes.space",50,150);
 strokeWeight (0)
 fill(250,250,250);
 
@@ -44,7 +45,5 @@ fill(250,250,250);
 
 //triangle(x1,y1,x2,y2,x3,y3)
 //triangulo desde la la izquierda de la pantalla (extremo superior izquierdo y extremo inferior izquierdo) al cursor
-triangle(0, 0, 0, height, mouseX, mouseY);
-
-  
+//triangle(0,0,0,height,mouseX,mouseY);
 }
