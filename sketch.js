@@ -1,34 +1,4 @@
-//2016_12_12
-
-var bg;
-var y = 0;
-
-function setup() {
- bg= loadImage("images/luznaranja.jpg");
- createCanvas(windowWidth, windowHeight);
- 
-//crear un lienzo
-//CreateCanvas(hor,ver)
-//createCanvas(windowWidth, windowHeight);
-
-//pintar el fondo naranjo
-//background(color);
-//background(255,145,28);
-
-
-}
-
-function draw() {
-  background(bg);
-  stroke(226,204,0);
-  line(0,y,width,y)
-  
-  y++;
-  if (y > height) {
-    y = 0;
-  }
-
-//escribir texto de encabezado
+//2018_03_07
 textFont ("Helvetica");
 textSize(12);
 text("Andrés Bartelsman Vega",50,50);
@@ -73,14 +43,7 @@ text("2014-2017 Animalandscape  / Santiago, Chile",50,710);
 text("Series of digital collages",50,725);
 text("2010 “Black Books 2”  / Santiago, Chile",50,740);
 text("Concrete re-interpretation of Rachel Whiteread´s Black Books´s Sculpture",50,755);
-text("Also visit www.andes.space",50,785")
+text("Also visit www.andes.space",50,785");
 strokeWeight (0)
 fill(250,250,250);
-
-
-
-
-//triangle(x1,y1,x2,y2,x3,y3)
-//triangulo desde la la izquierda de la pantalla (extremo superior izquierdo y extremo inferior izquierdo) al cursor
-//triangle(0,0,0,height,mouseX,mouseY);
 }
