@@ -1,32 +1,9 @@
- //2016_12_12
- 
- var bg;
- var y = 0;
  
  function setup() {
   bg= loadImage("images/luznaranja.jpg");
   createCanvas(windowWidth, windowHeight);
-  
- //crear un lienzo
- //CreateCanvas(hor,ver)
- //createCanvas(windowWidth, windowHeight);
- 
- //pintar el fondo naranjo
- //background(color);
- //background(255,145,28);
- 
  
  }
- 
- function draw() {
-   background(bg);
-   stroke(226,204,0);
-   line(0,y,width,y)
-   
-   y++;
-   if (y > height) {
-     y = 0;
-   }
  
 //escribir texto de encabezado
 //2018_03_07
