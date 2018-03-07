@@ -40,9 +40,14 @@ text("Studies",50,140);
 text("2008-2016 Architecture Studies (professional degree) at Universidad Católica de Chile / Santiago, Chile",50,155);
 text("1994-2007 Primary & Secondary Education at Deutsche Schule Santiago / Santiago, Chile",50,170);
 text("Languages",50,200);
-text("Spanish Native",50,215);
-text("English Intermediate",50,230);
-text("German Intermediate",50,245); 
+text("Spanish: Native",50,215);
+text("English: Intermediate",50,230);
+text("German: Intermediate",50,245); 
+text("Laboral Experience",50,275);
+text("2016-2018 Junior Architect at OMN Arquitectos / Santiago, Chile",50,290);
+text("Designer and Project Developer [ Educational / Institutional]",50,305);
+text("2015 Internship at P&G Arquitectos / Santiago, Chile",50,320);
+text("Development of the design of “Casa Lago Colico” [ Housing]",50,320);
 strokeWeight (0)
 fill(250,250,250);
 
