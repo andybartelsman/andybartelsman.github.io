@@ -73,7 +73,7 @@ text("2014-2017 Animalandscape  / Santiago, Chile",50,710);
 text("Series of digital collages",50,725);
 text("2010 “Black Books 2”  / Santiago, Chile",50,740);
 text("Concrete re-interpretation of Rachel Whiteread´s Black Books´s Sculpture",50,755);
-url("www.andes.space",50,770)
+text("Also visit www.andes.space",50,785");
 strokeWeight (0)
 fill(250,250,250);
 
