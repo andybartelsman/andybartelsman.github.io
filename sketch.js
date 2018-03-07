@@ -47,7 +47,9 @@ text("Laboral Experience",50,275);
 text("2016-2018 Junior Architect at OMN Arquitectos / Santiago, Chile",50,290);
 text("Designer and Project Developer [ Educational / Institutional]",50,305);
 text("2015 Internship at P&G Arquitectos / Santiago, Chile",50,320);
-text("Development of the design of “Casa Lago Colico” [ Housing]",50,320);
+text("Development of the design of “Casa Lago Colico” [ Housing]",50,335);
+text("2012 Internship “The Conservation and Land Trust Foundation” / Chaitén, Chile",50,350);
+text("Development “El Amarillo” Project for The Conservation and Land Trust Foundation in Parque Pumalín [Institutional] ",50,365); 
 strokeWeight (0)
 fill(250,250,250);
 
