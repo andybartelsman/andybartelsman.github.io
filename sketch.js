@@ -32,48 +32,16 @@ function draw() {
 textFont ("Helvetica");
 textSize(12);
 text("Andrés Bartelsman Vega",50,50);
-text("Studies
-2008-2016 Architecture Studies (professional degree) at Universidad Católica de Chile / Santiago, Chile
-1994-2007 Primary & Secondary Education at Deutsche Schule Santiago / Santiago, Chile
+text("Born on July 15th, 1989 in Santiago de Chile",50,65);
+text("Residence: Ricardo Lyon 2212, Santiago de Chile",50,80);
+text("Nationality: Chilean / Dutch",50,95);
+text("Contact: aabartel@uc.cl",50,110);
+text("Studies",50,140);
+text("2008-2016 Architecture Studies (professional degree) at Universidad Católica de Chile / Santiago, Chile",50,155);
+text("1994-2007 Primary & Secondary Education at Deutsche Schule Santiago / Santiago, Chile",50,170);
+strokeWeight (0)
+fill(250,250,250);
 
-Languages
-Spanish Native
-English Intermediate
-German Basic
-
-Laboral Experience
-2016-2018 Junior Architect at OMN Arquitectos / Santiago, Chile
-Designer and Project Developer [ Educational / Institutional] 
-2015 Internship at P&G Arquitectos / Santiago, Chile
-Development of the design of “Casa Lago Colico” [ Housing] 
-2012 Internship “The Conservation and Land Trust Foundation” / Chaitén, Chile
-Development “El Amarillo” Project for The Conservation and Land Trust Foundation in Parque Pumalín [Institutional] 
-
-Academic Experience
-2016 Study Thesis “Architecture as a support for the agricultural innovation” Universidad Católica de Chile / Santiago, Chile
-Development of a research and the design for an Agricultural and Innovation School. Professors L.E. Bresciani & J. Di Girolamo
-2015 Teacher Assistant at  “City & Landscape” course at Universidad Católica de Chile / Santiago, Chile
-Proffesors J. Rosas, N. Tugas & T. Lin 
-
-Experiencia en Organizaciones
-2013 Pontificia Universidad Católica Students Union (FEUC) / Santiago, Chile
-Chief Communications Department. Board Member.
-2011 Pontificia Universidad Católica Architecture Students Union (CEARQ) / Santiago, Chile
-Coordinator. Board Member.
-2006-2007 Emergency Constructions / Nogales, Rosario & Villa Alegre, Chile
-Team Leader.
-
-Artistic parallel work
-2017 Luz Vertical / San Felipe, Chile
-Light Installation together with Cristina Gil & Carlos Sfeir
-2017 Luz Naranja / Santiago y Caleu, Chile
-Light experiments & photographic records together with Cristina Gil
-2015 EM1+EM2 / Santiago, Chile
-Wood Sculptures developed under the supervision of proffessor Osvaldo Peña.
-2014-2017 Animalandscape  / Santiago, Chile
-Series of digital collages.
-2010 “Black Books 2”  / Santiago, Chile
-Concrete re-interpretation of Rachel Whiteread´s Black Books´s Sculpture);
 
 
 
