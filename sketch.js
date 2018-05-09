@@ -62,7 +62,7 @@ text("2011 Pontificia Universidad Católica Architecture Students Union (CEARQ) 
 text("Coordinator & Board Member",50,545);
 text("2006-2007 Emergency Constructions / Nogales, Rosario & Villa Alegre, Chile",50,560);
 text("Team Leader",50,575);
-text("Artistic work", 50,605");
+text("Artistic work",50,605");
 text("2017 Luz Vertical / San Felipe, Chile", 50,620);
 text("Light Installation together with Cristina Gil & Carlos Sfeir",50,635);
 text("2017 Luz Naranja / Santiago y Caleu, Chile",50,650);
