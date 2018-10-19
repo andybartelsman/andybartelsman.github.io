@@ -31,17 +31,17 @@ function draw() {
 //escribir texto de encabezado
 textFont ("Helvetica");
 textSize(12);
-text("Andrés Bartelsman Vega",50,50);
+text("Andrés Bartelsman / Architect",50,50);
 text("Born on July 15th, 1989 in Santiago de Chile",50,65);
-text("Santiago de Chile",50,80);
+text("Living and working in Barcelona",50,80);
 text("Nationality: Chilean / Dutch",50,95);
-text("Contact: aabartel@uc.cl",50,110);
+text("Contact: andybartelsman@gmail.com",50,110);
 text("Studies",50,140);
 text("2008-2016 Architecture Studies (professional degree) at Universidad Católica de Chile / Santiago, Chile",50,155);
 text("1994-2007 Primary & Secondary Education at Deutsche Schule Santiago / Santiago, Chile",50,170);
 text("Languages",50,200);
 text("Spanish: Native",50,215);
-text("English: Intermediate",50,230);
+text("English: Advanced",50,230);
 text("German: Intermediate",50,245); 
 text("Laboral Experience",50,275);
 text("2016-2018 Junior Architect at OMN Arquitectos / Santiago, Chile",50,290);
