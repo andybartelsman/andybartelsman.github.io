@@ -63,16 +63,18 @@ text("Coordinator & Board Member",50,545);
 text("2006-2007 Emergency Constructions / Nogales, Rosario & Villa Alegre, Chile",50,560);
 text("Team Leader",50,575);
 text("Artistic work",50,605);
-text("2017 Luz Vertical / San Felipe, Chile", 50,620);
-text("Light Installation together with Cristina Gil & Carlos Sfeir",50,635);
-text("2017 Luz Naranja / Santiago y Caleu, Chile",50,650);
-text("Light experiments & photographic records together with Cristina Gil",50,665);
-text("2015 EM1+EM2 / Santiago, Chile",50,680);
-text("Wood Sculptures developed under the supervision of proffessor Osvaldo Peña",50,695);
-text("2014-2017 Animalandscape  / Santiago, Chile",50,710);
-text("Series of digital collages",50,725);
-text("2010 “Black Books 2”  / Santiago, Chile",50,740);
-text("Concrete re-interpretation of Rachel Whiteread´s Black Books´s Sculpture",50,755);
+text("2018 Parcel·les urbans / Barcelona, Spain", 50,620);
+text("A series of paintings on acrylic",50,635); 
+text("2017 Luz Vertical / San Felipe, Chile", 50,650);
+text("Light Installation together with Cristina Gil & Carlos Sfeir",50,665);
+text("2017 Luz Naranja / Santiago y Caleu, Chile",50,680);
+text("Light experiments & photographic records together with Cristina Gil",50,695);
+text("2015 EM1+EM2 / Santiago, Chile",50,710);
+text("Wood Sculptures developed under the supervision of proffessor Osvaldo Peña",50,725);
+text("2014-2017 Animalandscape  / Santiago, Chile",50,740);
+text("Series of digital collages",50,755);
+text("2010 “Black Books 2”  / Santiago, Chile",50,770);
+text("Concrete re-interpretation of Rachel Whiteread´s Black Books´s Sculpture",50,785);
 strokeWeight (0)
 fill(250,250,250);
 
